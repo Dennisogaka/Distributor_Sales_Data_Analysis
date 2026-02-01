@@ -1,2 +1,3 @@
-# Distributor_Sales_Data_Analysis
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data.  The process involved steps such as data cleaning, processing, and visualization.
+# Data-Analysis-for-Multi-Regional-Electronic-Distributor (Interactive Dashboard Creation Using MS Excel)
+## Project Objective
+The objective is to clean, format, and create dashboards to drive insights using the KPIs.
