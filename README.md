@@ -1,6 +1,6 @@
 # Data-Analysis-for-Multinational-Electronics-Distributor (Interactive Dashboard Creation Using MS Excel)
 ## Project Objective
-The objective of this project is to design and build an interactive Excel through dynamic dashboards that show key findings across the board.
+The objective of this project is to design and build an interactive and dynamic dashboards on Excel that show key findings across the board.
 ## Dataset Used
 - <a href="https://github.com/Dennisogaka/Distributor_Sales_Data_Analysis/blob/main/Excel_Assignment%20and%20Brief_Final.xlsx">Dataset<a/>
 ## Data Issues Found
