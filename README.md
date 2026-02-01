@@ -4,7 +4,7 @@
 -	There were duplicate order IDs
 -	There were negative unitprices and discounts above 30%
 -	There were blank city, salesperson, and channel cells.
--	Data types were incorrect (Dates, Numercs and Text)
+-	Data types were incorrect (Dates, Numerics and Text)
 -	Required Dates were earlier than the order Dates
 ## Cleaning Rules and Assumptions
 -	A staging table was created by duplicating the raw data sheet to preserve data integrity. All steps were conducted on the staging table while keeping the original data unchanged.
