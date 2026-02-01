@@ -1,3 +1,3 @@
-# Data-Analysis-for-Multi-Regional-Electronic-Distributor (Interactive Dashboard Creation Using MS Excel)
-## Project Objective
-The objective is to clean, format, and create dashboards to drive insights using the KPIs.
+## Dataset Used
+- <a href="https://github.com/Dennisogaka/Distributor_Sales_Data_Analysis/blob/main/Excel_Assignment%20and%20Brief_Final.xlsx">Dataset<a/>
+
